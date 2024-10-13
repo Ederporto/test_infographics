@@ -1,4 +1,3 @@
-import '../styles/globals.css';
 import Image from "next/image";
 import localFont from "next/font/local";
 import { useRouter } from "next/router";
